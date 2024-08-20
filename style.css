@@ -1,0 +1,97 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(7, 7, 46);
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+.content {
+    padding: 0px;
+    background-color: aliceblue;
+}
+
+
+
+
+.col {
+    background-color: bisque;
+}
+
+#pimg {
+    border-radius: 50%;
+}
+
+#logo {
+    height: 40px;
+    border-radius: 50%;
+}
+
+footer {
+    color: silver;
+}
+
+h1 {
+    color: white;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    font-family: "Bodoni Moda SC", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.typetext {
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.skill {
+    font-family: "Kalam", cursive;
+    font-weight: 550;
+    font-style: normal;
+}
+
+
+form {
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+
+}
+
+strong {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+
+}
+
+.nav-link:hover {
+    font-size: large;
+    background-color: rgb(243, 246, 252);
+    border-radius: 6%;
+
+}
+
+.btnc {
+    background-color: rgb(7, 7, 46);
+    color: snow;
+}
